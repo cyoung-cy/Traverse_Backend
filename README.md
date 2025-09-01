@@ -1,4 +1,4 @@
-# TapTalk Backend 마이크로서비스
+# Traverse Backend 마이크로서비스
 
 ## 시스템 구조
 
